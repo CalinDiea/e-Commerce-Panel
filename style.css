@@ -1,0 +1,29 @@
+body {
+    background: linear-gradient(rgba(0,0,50,0.5),rgba(0,0,50,0.5)),url(poza.jpg);
+    background-size:cover;
+    background-postion:center;
+}
+
+.login-box{
+    max-width:700px;
+    float:none;
+    margin: 150px auto;
+}
+
+.login-stanga{
+    background: rgba(221,111,211,0.5);
+    padding:30px;
+}
+
+.inregistrare-dreapta{
+    background: rgba(211,211,211,0.5);
+    padding:30px;
+}
+
+.header {
+  padding: 60px;
+  text-align: center;
+  background: #1abc9c;
+  color: white;
+  font-size: 30px;
+}
